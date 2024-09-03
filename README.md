@@ -8,6 +8,10 @@ Repositório com descrição dos principais comandos de Git utilizados para cham
 
 (https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/)
 
+Documentação Git (https://git-scm.com/doc)
+Documentação GitHub (https://docs.github.com)
+
+
 ### Git clone
     git clone <https://link-com-o-nome-do-repositório>
 Git clone é uma comando para baixar o código-fonte existente de um repositório remoto (como, por exemplo, o Github). Em outras palavras, git clone, basicamente, faz uma cópia idêntica da versão mais recente de um projeto em um repositório e a salva em seu computador.
